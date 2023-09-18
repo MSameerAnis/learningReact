@@ -10,7 +10,7 @@ function App() {
     <div>
       {/* <Style primary={true}/> */}
       {/* <Form /> */}
-    <Mount />
+    {/* <Mount /> */}
     </div>
   );
 }
